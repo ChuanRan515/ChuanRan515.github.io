@@ -1,22 +1,21 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: Chuan Ran's Homepage
+page-top-title: Chuan Ran
+top-section-bg-text: Big Data Statistic
 backgrounds:
   - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Chuan Ran 2024-2027. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/ChuanRan515
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/ChuanRan515/ChuanRan515.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Chuan Ran &ensp;|&ensp;冉川
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
