@@ -1,13 +1,12 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Second-Prize Graduate Academic Scholarship (Guizhou University of Finance and Economics), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Third-Prize Undergraduate Academic Scholarship (Liupanshui Normal University), 2023.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- National Endeavor Scholarship (Ministry of Education, China), 2022.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- Third-Prize Undergraduate Academic Scholarship (Liupanshui Normal University), 2022.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Third-Prize Undergraduate Academic Scholarship (Liupanshui Normal University), 2021.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
 

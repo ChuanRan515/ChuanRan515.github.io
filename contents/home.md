@@ -1,19 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ChuanRan515](https://img.shields.io/badge/ChuanRan515-github-blue?logo=github)](https://github.com/ChuanRan515)
 
-He is an incoming Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is a student who is about to enter his third year of graduate studies in the major of Big Data Statistics at Guizhou University of Finance and Economics.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: isrcjq[at]163.com
 
 #### Education
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022–2025
+Master's degree in Big Data Statistics,
+School of Mathematics and Statistics & School of Big Data Statistics, Guizhou University of Finance and Economics, 2024–2027
 
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+Bachelor of Economics in Economic Statistics,
+School of Mathematics and Statistics, Liupanshui Normal University, 2020–2024
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning; Node Importance Identification; Hypergraph
