@@ -1,8 +1,8 @@
 title: Chuan Ran's Homepage
 page-top-title: Chuan Ran
-top-section-bg-text: Big Data Statistic
+top-section-bg-text: Big Data Statistics
 backgrounds:
-  - static/assets/background/background_0.jpeg
+  - static/assets/background/background_0.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Chuan Ran 2024-2027. All Rights Reserved.'
